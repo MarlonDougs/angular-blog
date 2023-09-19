@@ -5,10 +5,11 @@
 .container__menu-title > h1{
   margin-top: 15px;
   margin-bottom: 15px;
-  font-size: 135px;
+  font-size: 100px;
   font-family: 'segoe UI';
   display: flex;
   justify-content: center;
+  color: black;
 }
 
 .container__menu-title > hr{

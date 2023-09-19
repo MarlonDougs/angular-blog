@@ -15,12 +15,16 @@
   font-size: 20px;
 }
 
+.big-card__title > h1 > a{
+  color: black;
+}
+
 .big-card__description{
   margin-top: 20px;
 }
 
 .big-card__description > p > a{
-  color: grey;
+  color: rgb(49, 49, 49);
 }
 
 .big-card__photo > img{
